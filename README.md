@@ -1,4 +1,4 @@
 # sentimental-analaysis
-This is Machine learning project.
+This is a Machine learning project.
 <br>
 Author- Jerome Philip John
