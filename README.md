@@ -1,2 +1,3 @@
 # sentimental-analaysis
-Machine learning
+This Machine learning project 
+Author- Jerome Philip John
